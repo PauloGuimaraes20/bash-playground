@@ -1,0 +1,23 @@
+#!/bin/bash
+
+function congrats {
+    user=$(whoami)
+    echo "Hello $user!"
+}
+function hello2 {
+    echo "hello2"
+}
+function update {
+
+}
+function upgrade {
+
+}
+
+counter=0
+while [ $counter -lt 3 ]; do
+    echo -n "Pick a number in 0-3: " 
+    read option
+    congrats
+    let counter+=1
+done
