@@ -1,0 +1,18 @@
+# Useful Bash Resources
+# ----------------------
+# Tutorials and Guides:
+# https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+# https://linuxconfig.org/mastering-string-concatenation-in-bash-scripting
+# https://ryanstutorials.net/bash-scripting-tutorial/
+# https://tldp.org/LDP/abs/html/ (Advanced Bash-Scripting Guide)
+
+# Some Useful Commands:
+# ls -l      # Show directories and files with details
+# man ls     # Show the manual for the 'ls' command
+# pwd        # Print the current working directory
+# cd ..      # Move up one directory
+# chmod +x script.sh  # Make a script executable
+# grep "word" file.txt  # Search for "word" in file.txt
+# echo $HOME  # Show the user's home directory
+# history     # Show command history
+# alias ll="ls -la"  # Create a shortcut alias
